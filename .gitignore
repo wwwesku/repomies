@@ -1,2 +1,4 @@
 node_modules/
 ai1wm-backups/
+.project
+*.pyc
